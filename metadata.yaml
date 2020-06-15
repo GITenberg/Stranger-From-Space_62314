@@ -1,0 +1,40 @@
+_repo: Stranger-From-Space_62314
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Saaf, Art
+    aliases:
+    - Saaf, Arthur Herman
+    - Saaf, Arthur
+    birthdate: 1921
+    deathdate: 2007
+    gutenberg_agent_id: '51890'
+    url: http://www.gutenberg.org/2009/agents/51890
+    wikipedia: https://en.wikipedia.org/wiki/Art_Saaf
+creator:
+  author:
+    agent_name: Bok, Hannes
+    alias: Woodard, Wayne Francis
+    birthdate: 1914
+    deathdate: 1964
+    gutenberg_agent_id: '51643'
+    url: http://www.gutenberg.org/2009/agents/51643
+    wikipedia: https://en.wikipedia.org/wiki/Hannes_Bok
+description: ''
+gutenberg_issued: '2020-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Stranger From Space
+url: http://www.gutenberg.org/ebooks/62314
